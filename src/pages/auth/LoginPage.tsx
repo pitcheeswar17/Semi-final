@@ -40,7 +40,7 @@ const LoginPage: React.FC = () => {
   
   // Sample credentials display
   const sampleCredentials = [
-    { email: 'admin@campusbuzz.com', password: 'admin123', role: 'Admin' },
+    { email: 'admin123@gmail.com', password: 'admin123', role: 'Admin' },
     { email: 'user@campusbuzz.com', password: 'user123', role: 'Regular User' }
   ];
 

@@ -16,7 +16,7 @@ const AuthContext = createContext<AuthContextType>({
 const MOCK_USERS = [
   {
     id: '1',
-    email: 'admin@campusbuzz.com',
+    email: 'admin123@gmail.com',
     password: 'admin123',
     displayName: 'Admin User',
     isAdmin: true,
